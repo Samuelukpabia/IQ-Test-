@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IQ-Test-/static/css/main.b9015095.css",
+    "main.js": "/IQ-Test-/static/js/main.59d9ec36.js",
+    "index.html": "/IQ-Test-/index.html",
+    "main.b9015095.css.map": "/IQ-Test-/static/css/main.b9015095.css.map",
+    "main.59d9ec36.js.map": "/IQ-Test-/static/js/main.59d9ec36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9015095.css",
+    "static/js/main.59d9ec36.js"
+  ]
+}
